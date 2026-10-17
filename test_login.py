@@ -1,4 +1,5 @@
 
+# AttendX login automation test - updated version
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
