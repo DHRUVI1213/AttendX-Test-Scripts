@@ -1,3 +1,8 @@
+## Team Workflow
+- Pull changes before starting work.
+- Use meaningful commit messages.
+- Push completed changes to GitHub.
+- Review changes before merging.
 AttendX Test Scripts
 Project Overview
 
